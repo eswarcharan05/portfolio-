@@ -1,0 +1,20 @@
+:root {
+  --heading-font-family: "Outfit", Helvetica;
+  --heading-font-weight: 700;
+  --heading-font-size: 69px;
+  --heading-letter-spacing: 0px;
+  --heading-line-height: 100%;
+  --heading-font-style: normal;
+  --basic-font-family: "Laila", Helvetica;
+  --basic-font-weight: 700;
+  --basic-font-size: 15px;
+  --basic-letter-spacing: 0px;
+  --basic-line-height: 27.5px;
+  --basic-font-style: normal;
+  --head-font-family: "Laila", Helvetica;
+  --head-font-weight: 700;
+  --head-font-size: 25px;
+  --head-letter-spacing: 0px;
+  --head-line-height: 27.5px;
+  --head-font-style: normal;
+}
